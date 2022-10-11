@@ -1,0 +1,36 @@
+#first {
+    background-image: url("assets/cloud.jfif");
+    min-height: 2400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: grayscale(100%)blur(5px);
+}
+#second {
+    background-image: url("assets/cloud.jfif");
+    min-height: 1200px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#third {
+    background-image: url("assets/rain.jpg");
+    min-height: 1200px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#forth {
+    background-image: url("assets/waterfall-2.jpg");
+    min-height: 1200px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
